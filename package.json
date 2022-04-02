@@ -1,0 +1,52 @@
+{
+    "name": "vscode-extension-maxpou",
+    "displayName": "vscode-extension-maxpou",
+    "description": "Extensions used by Maxence Poutord",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "abusaidm.html-snippets", 
+        "alefragnani.project-manager", 
+        "apollographql.vscode-apollo", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "cssho.vscode-svgviewer", 
+        "dbaeumer.vscode-eslint", 
+        "donjayamanne.githistory", 
+        "eamodio.gitlens", 
+        "EditorConfig.EditorConfig", 
+        "Equinusocio.vsc-community-material-theme", 
+        "Equinusocio.vsc-material-theme", 
+        "equinusocio.vsc-material-theme-icons", 
+        "esbenp.prettier-vscode", 
+        "GitHub.copilot", 
+        "GitHub.vscode-pull-request-github", 
+        "GraphQL.vscode-graphql", 
+        "HookyQR.beautify", 
+        "hoovercj.vscode-power-mode", 
+        "jpoissonnier.vscode-styled-components", 
+        "ms-azuretools.vscode-docker", 
+        "ms-vsliveshare.vsliveshare", 
+        "msjsdiag.debugger-for-chrome", 
+        "octref.vetur", 
+        "Orta.vscode-jest", 
+        "PKief.material-icon-theme", 
+        "pnp.polacode", 
+        "rust-lang.rust", 
+        "silvenon.mdx", 
+        "stylelint.vscode-stylelint", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "vscode-icons-team.vscode-icons", 
+        "waderyan.gitblame", 
+        "WallabyJs.quokka-vscode", 
+        "whizkydee.material-palenight-theme", 
+        "withfig.fig", 
+        "wix.vscode-import-cost", 
+        "znck.grammarly"
+    ]
+}
